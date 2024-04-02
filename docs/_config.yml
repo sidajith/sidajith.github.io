@@ -28,7 +28,7 @@ twitter_username: ""
 github_username:  "sidajith"
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
