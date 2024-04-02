@@ -28,7 +28,7 @@ twitter_username: ""
 github_username:  "sidajith"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
@@ -51,4 +51,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-theme: jekyll-theme-cayman
+
