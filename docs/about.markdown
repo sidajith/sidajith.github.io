@@ -4,17 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my website!
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a PhD candidate at the University of Virginia studying gravitational physics. I am interested in solving problems in strong-field gravity using black holes and neutron stars. Currently, I am studying tidal interactions of pulsars and applying machine learning techniques to test gravitational theories using gravitational wave data. 
