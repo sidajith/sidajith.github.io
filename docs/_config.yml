@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Siddarth Ajith's Website
+title: Sid Ajith's Website
 email: ajithsiddarth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Siddarth Ajith is a PhD candidate in theoretical gravitational physics.
