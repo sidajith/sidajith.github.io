@@ -5,6 +5,4 @@
 layout: home
 ---
 
-
-
-![IMG_0039](https://github.com/user-attachments/assets/4d5770e5-4f36-4b52-b30d-37fe788995d3)
+![IMG_5420](https://github.com/user-attachments/assets/ab9a25a7-2d61-4ae9-b970-162ea75d24c2)
