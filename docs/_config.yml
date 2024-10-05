@@ -25,11 +25,11 @@ author: Siddarth Ajith
 # --- List of links in the navigation bar --- #
 ###############################################
 navbar-links:
+  Home: "https://sidajith.github.io"
   About Me: "about"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Home: "https://sidajith.github.io"
   CV: "cv"
 
 ################
