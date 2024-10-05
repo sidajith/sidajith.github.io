@@ -1,10 +1,3 @@
-[ajith_cv_2024_summer.pdf](https://github.com/user-attachments/files/17265063/ajith_cv_2024_summer.pdf)
 
-https://github.com/user-attachments/files/17265063/ajith_cv_2024_summer.pdf
-
-
-<object data="https://github.com/user-attachments/files/17265063/ajith_cv_2024_summer.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/user-attachments/files/17265063/ajith_cv_2024_summer.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/user-attachments/files/17265063/ajith_cv_2024_summer.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[ajith_cv_2024_fall.pdf](https://github.com/user-attachments/files/17265109/ajith_cv_2024_fall.pdf)
+![ajith_cv_2024_fall](https://github.com/user-attachments/assets/52eefa46-e605-4e20-bff6-42b5d9f8aac3)
